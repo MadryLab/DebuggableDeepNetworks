@@ -1,0 +1,3 @@
+[submodule "lucent"]
+	path = lucent
+	url = https://github.com/greentfrapp/lucent.git
