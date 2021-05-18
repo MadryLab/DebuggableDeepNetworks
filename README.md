@@ -13,13 +13,11 @@ Blog posts:  [Part1](https://gradientscience.org/glm_saga) and [Part2](https://g
 
 
 ```bibtex
-@misc{wong2021leveraging,
-      title={Leveraging Sparse Linear Layers for Debuggable Deep Networks}, 
-      author={Eric Wong and Shibani Santurkar and Aleksander Mądry},
-      year={2021},
-      eprint={2105.04857},
-      archivePrefix={arXiv},
-      primaryClass={cs.LG}
+@article{wong2021leveraging,
+  title={Leveraging Sparse Linear Layers for Debuggable Deep Networks},
+  author={Wong, Eric and Santurkar, Shibani and M{\k{a}}dry, Aleksander},
+  journal={arXiv preprint arXiv:2105.04857},
+  year={2021}
 }
 ```
 
